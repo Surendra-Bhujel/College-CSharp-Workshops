@@ -1,0 +1,14 @@
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\bin\Debug\net10.0\VariablesAndDataTypes.exe
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\bin\Debug\net10.0\VariablesAndDataTypes.deps.json
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\bin\Debug\net10.0\VariablesAndDataTypes.runtimeconfig.json
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\bin\Debug\net10.0\VariablesAndDataTypes.dll
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\bin\Debug\net10.0\VariablesAndDataTypes.pdb
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\VariablesAndDataTypes.AssemblyInfo.cs
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\VariablesAndDataTypes.dll
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\refint\VariablesAndDataTypes.dll
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\VariablesAndDataTypes.pdb
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\VariablesAndDataTypes.genruntimeconfig.cache
+F:\3rd Year BIT\Application Development\Workshops Practices\VariablesAndDataTypes\obj\Debug\net10.0\ref\VariablesAndDataTypes.dll
